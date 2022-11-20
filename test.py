@@ -3,7 +3,7 @@ text = str(input('Введите приветствие: '))
 print(text)
 centr = text.center(50)
 print(centr)
-print(centr, text)
+
 
 #только +
 
