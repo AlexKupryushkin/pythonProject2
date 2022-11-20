@@ -3,13 +3,14 @@ text = str(input('Введите приветствие: '))
 print(text)
 centr = text.center(50)
 print(centr)
-
+print(centr, text)
 
 #только +
 
 num1 = int(input('Число 1: '))
 num2 = int(input('Число 2: '))
 num3 = int(input('Число 3: '))
+num4 = int(input(...))
 sum = 0
 if num1 >= 0:
     sum += num1
